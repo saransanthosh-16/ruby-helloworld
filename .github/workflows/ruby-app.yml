@@ -15,7 +15,7 @@ jobs:
     - name: Set up Ruby 2.5
       uses: ruby/setup-ruby@359bebbc29cbe6c87da6bc9ea3bc930432750108
       with:
-        ruby-version: 2.5.x
+        ruby-version: 2.5
         
     - name: Install dependencies
       run: bundle install
