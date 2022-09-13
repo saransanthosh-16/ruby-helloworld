@@ -1,4 +1,4 @@
-name: Ruby app with Docker image
+name: Ruby app to Docker image
 
 on:
   push:
